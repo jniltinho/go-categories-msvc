@@ -14,3 +14,6 @@
 - [ ] Dockerize
 - [ ] Permissions/Roles
 - [ ] Deploy (AWS)
+
+## Links
+ - Link do Howto: https://www.youtube.com/watch?v=DVZ3hs3Bq34
